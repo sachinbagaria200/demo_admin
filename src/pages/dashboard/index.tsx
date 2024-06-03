@@ -14,7 +14,7 @@ export default function Dashboard() {
             <TabsTrigger className="group" value="account">
               Manor
               <span
-                className="bg-gray-300 text-white group-data-[state=active]:bg-white ml-1 px-2.5 py-1 rounded-md group-data-[state=active]:text-red-500"
+                className="bg-gray-400 text-white group-data-[state=active]:bg-white ml-1 px-2.5 py-1 rounded-md group-data-[state=active]:text-red-500"
               >
                 23
               </span>
@@ -22,7 +22,7 @@ export default function Dashboard() {
             <TabsTrigger className="group" value="password">
               Ashbury
               <span
-                className="bg-gray-300 text-white group-data-[state=active]:bg-white ml-1 px-2.5 py-1 rounded-md group-data-[state=active]:text-red-500"
+                className="bg-gray-400 text-white group-data-[state=active]:bg-white ml-1 px-2.5 py-1 rounded-md group-data-[state=active]:text-red-500"
               >
                 54
               </span>
