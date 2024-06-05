@@ -6,7 +6,7 @@ import { Input } from '@/components/ui/input'
 import { DataTableViewOptions } from '../components/data-table-view-options'
 
 import { priorities, statuses } from '../data/data'
-import { DataTableFacetedFilter } from './data-table-faceted-filter'
+import { DataTableFacetedFilter } from '@/components/datatable/data-table-faceted-filter'
 
 interface DataTableToolbarProps<TData> {
   table: Table<TData>
